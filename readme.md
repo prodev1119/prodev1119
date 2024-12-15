@@ -1,10 +1,10 @@
 
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/others/Welcome.svg" /></a>
 
-<h1> 💫 About Me (Akira Nakamura)  </h1>
+<h1> 💫 About Me (Dev Star)  </h1>
 
 <h3>
-  - 🔭 Full-stack developer with 3+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 🔭 Software Engineer with 5+ years of experience in various areas from backend to frontend<br/>
   - 📦 AI enthusiast with 3+ years of experience. mastered ML, DL, RL(special)<br/>
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
 </h3>
@@ -15,13 +15,13 @@
 
 
 ### Languages
+<a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/golang.svg" /></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/python.svg" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/javascript.svg" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/typescript.svg" /></a>
-<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/php.svg" /></a>
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/python.svg" /></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/java.svg" /></a>
 <a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/solidity.svg" /></a>
-<a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/golang.svg" /></a>
+<a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/php.svg" /></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/java.svg" /></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/languages/rust.svg" /></a>
 <br/><br/>
 
