@@ -38,13 +38,13 @@
 
 ### Frameworks 
 <a href="https://gin-gonic.com/" target="_blank"><img align="left" alt="Gin" width="50px" style="padding:10px;" src="./icons/lib/gin.png" /></a>
-<a href="https://echo.labstack.com/" target="_blank"><img align="left" alt="Gin" width="50px" style="padding:10px;" src="./icons/lib/echo.png" /></a>
-<a href="https://gorilla.github.io/" target="_blank"><img align="left" alt="Gin" width="50px" style="padding:10px;" src="./icons/lib/gorilla.png" /></a>
+<a href="https://echo.labstack.com/" target="_blank"><img align="left" alt="echo" width="50px" style="padding:10px;" src="./icons/lib/echo.png" /></a>
+<a href="https://gorilla.github.io/" target="_blank"><img align="left" alt="gorilla" width="50px" style="padding:10px;" src="./icons/lib/gorilla.jpeg" /></a>
 
-<a href="https://www.tensorflow.org/" target="_blank"><img align="left" alt="Gin" width="50px" style="padding:10px;" src="./icons/lib/tensorflow.png" /></a>
-<a href="https://pytorch.org/" target="_blank"><img align="left" alt="Gin" width="50px" style="padding:10px;" src="./icons/lib/pytorch.png" /></a>
-<a href="https://gorgonia.org/" target="_blank"><img align="left" alt="Gin" width="50px" style="padding:10px;" src="./icons/lib/gorgonia.png" /></a>
-<a href="https://www.goml.io//" target="_blank"><img align="left" alt="Gin" width="50px" style="padding:10px;" src="./icons/lib/gomlx.png" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img align="left" alt="tensorflow" width="50px" style="padding:10px;" src="./icons/lib/tensorflow.png" /></a>
+<a href="https://pytorch.org/" target="_blank"><img align="left" alt="pytorch" width="50px" style="padding:10px;" src="./icons/lib/torch.png" /></a>
+<a href="https://gorgonia.org/" target="_blank"><img align="left" alt="gorgonia" width="50px" style="padding:10px;" src="./icons/lib/gorgonia.png" /></a>
+<a href="https://www.goml.io//" target="_blank"><img align="left" alt="gomlx" width="50px" style="padding:10px;" src="./icons/lib/gomlx.jpeg" /></a>
 
 <a href="https://hardhat.org/" target="_blank"><img align="left" alt="Hardhat" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/hardhat.svg" /></a>
 <a href="https://archive.trufflesuite.com/" target="_blank"><img align="left" alt="Truffle" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/truffle.png" /></a>
