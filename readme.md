@@ -74,18 +74,18 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="45%">
+    <td align="center" width="50%">
         <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=dev-star712&theme=dark&hide=prs,prs_merged,contributed" alt="Supercometstar" /></a>
     </td>
-    <td align="center" width="55%">
+    <td align="center" width="50%">
         <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-star712&theme=dark" alt="Supercometstar" /></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="45%">
+    <td align="center" width="50%">
         <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-star712&theme=dark" alt="Supercometstar" /></a>
     </td>
-    <td align="center" width="55%">
+    <td align="center" width="50%">
         <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-star712&theme=dark" alt="Supercometstar" /></a>
     </td>
   </tr>
