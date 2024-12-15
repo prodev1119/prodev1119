@@ -15,6 +15,7 @@
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
+---
 
 ### Languages
 <a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/golang.svg" /></a>
@@ -27,6 +28,8 @@
 <a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/rust.svg" /></a>
 <br/><br/>
 
+---
+
 ### Libraries
 <a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
 <a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
@@ -36,6 +39,8 @@
 <a href="https://docs.ethers.org/v5/" target="_blank"><img align="left" alt="etherjs" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/etherjs.png" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
 <br/><br/>
+
+---
 
 ### Frameworks 
 <a href="https://gin-gonic.com/" target="_blank"><img align="left" alt="Gin" width="50px" style="padding:10px;" src="./icons/lib/gin.png" /></a>
@@ -59,12 +64,16 @@
 <br/><br/>
 <br/>
 
+---
+
 ### Database
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
 <a href="https://redis.io/" target= "_blank"><img align="left" alt="Redis" width="50px" style="padding:10px;" src="./icons/lib/redis.png" /></a></a>
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
 <br/><br/>
+
+---
 
 ### Tools
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
@@ -73,6 +82,9 @@
 <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /><br/></a>
 <br/><br/>
+
+---
+
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
 <div style="display: flex; align-items: center">
