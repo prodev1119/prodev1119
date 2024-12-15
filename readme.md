@@ -7,7 +7,7 @@
   - 🔭 Software Engineer with 6+ years of experience in various areas from backend to frontend<br/>
   - 📦 AI enthusiast with 4+ years of experience. mastered ML, DL, RL(special)<br/>
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
-  - 🚀 Blockchain developer with 3+ years of experience in layer1 and layer2 blockchain.
+  - 🚀 Blockchain developer with 3+ years of experience in layer1 and layer2 blockchain.<br/>
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/others/colorful_line.gif"></a>
