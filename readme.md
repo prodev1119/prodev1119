@@ -4,7 +4,6 @@
 <h1> 💫 About Me (ProDev)  </h1>
 
 <h3>
-  AI Engineer| GenAI/NLP/LLM/RAG, Computer Vison, Voice AI, n8n, Cloud
   🦄Senior 🧠AI Engineer | with ⏳5+ Years of Experience in AI | ⚡20+ Projects Developed
   I am a 25-year-old AI Engineer with nearly a decade of experience, starting with Python at age 10. Developed a proprietary predictive analytics web application at 16. Specializes in AI, ML, and cloud architectures for enterprise solutions, with particular expertise     in building and deploying complex AI agents. Extensive experience with LLMs, GenAI, and cloud-based AI applications across multiple companies and enterprises.
 </h3>
