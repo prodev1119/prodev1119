@@ -86,28 +86,6 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-star712&theme=dark" alt="dev-star712" /></a>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-star712&theme=dark" alt="dev-star712" /></a>
-    </td>
-    <td align="center" width="50%">
-        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-star712&theme=dark" alt="dev-star712" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-star712&theme=dark" alt="dev-star712" /></a>
-    </td>
-    <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-star712&theme=dark&utcOffset=8" alt="dev-star712" /></a>
-    </td>
-  </tr>
-</table>
-
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 <h2>
