@@ -1,14 +1,12 @@
 
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1> 💫 About Me (Dev Star)  </h1>
+<h1> 💫 About Me (ProDev)  </h1>
 
 <h3>
-  - 🔭 Software Engineer with 6+ years of experience in various areas from backend to frontend<br/>
-  - 📦 AI enthusiast with 4+ years of experience. mastered ML, DL, RL(special)<br/>
-  - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
-  - 🚀 Blockchain developer with 3+ years of experience in layer1 and layer2 blockchain.<br/>
-  - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
+  AI Engineer| GenAI/NLP/LLM/RAG, Computer Vison, Voice AI, n8n, Cloud
+  🦄Senior 🧠AI Engineer | with ⏳5+ Years of Experience in AI | ⚡20+ Projects Developed
+  I am a 25-year-old AI Engineer with nearly a decade of experience, starting with Python at age 10. Developed a proprietary predictive analytics web application at 16. Specializes in AI, ML, and cloud architectures for enterprise solutions, with particular expertise     in building and deploying complex AI agents. Extensive experience with LLMs, GenAI, and cloud-based AI applications across multiple companies and enterprises.
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
